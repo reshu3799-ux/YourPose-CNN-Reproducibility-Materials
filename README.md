@@ -12,8 +12,14 @@ Materials Available
 The following materials are provided in this repository:
 
 Dataset split manifests: Lists of image filenames assigned to the training, validation, and testing sets.
+
+
 Subject-disjoint verification: A script to verify subject separation across the training, validation, and testing sets, based on the identifiers available in the manifests.
+
+
 Rotation matrix-to-angle conversion: Code describing the conversion of rotation matrices into yaw, pitch, and roll angles.
+
+
 Head pose classification labels: Code implementing the rules used to assign the seven discrete pose labels: L, LU, LD, R, RU, RD, and N.
 
 
