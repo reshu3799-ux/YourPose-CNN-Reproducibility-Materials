@@ -1,5 +1,6 @@
 # YourPose-CNN-Reproducibility-Materials
 Selected reproducibility materials for the YourPose-CNN head pose estimation research
+
 Overview
 
 This repository provides selected reproducibility materials associated with the research work on YourPose-CNN, a head pose estimation framework combining face-region processing, mask-guided learning, pose classification, and continuous pose regression.
@@ -15,15 +16,10 @@ Subject-disjoint verification: A script to verify subject separation across the 
 Rotation matrix-to-angle conversion: Code describing the conversion of rotation matrices into yaw, pitch, and roll angles.
 Head pose classification labels: Code implementing the rules used to assign the seven discrete pose labels: L, LU, LD, R, RU, RD, and N.
 
-Please refer to the individual directories for usage instructions and implementation details.
 
 Materials Not Currently Released
 
-The complete model-training code and model-evaluation code are not included in this public repository. Their release is currently restricted by research-supervision and research-centre requirements.
-
-The trained model checkpoints, complete training configurations, and other implementation materials are also not included unless explicitly listed as available in this repository.
-
-Any future release of additional materials will be subject to the necessary permissions and approvals from the research supervisor and research centre.
+The complete model-training code and model-evaluation code are not included in this public repository. Their release is currently restricted.
 
 Reproducibility Scope and Limitations
 
