@@ -31,5 +31,7 @@ The complete model-training code and model-evaluation code are not included in t
 
 The currently available files support inspection of selected dataset-splitting procedures, subject-disjoint verification, angle conversion, and discrete pose-label assignment. They do not, by themselves, provide a complete end-to-end reproduction of model training, evaluation, or computational benchmarking.
 
-5) The repository will be updated if additional materials are authorized for release.
+5) Repository Updates
+
+This document reflects the scope of the public release at the time of publication. If additional materials are authorized for release, the repository and this document may be updated accordingly.
 
